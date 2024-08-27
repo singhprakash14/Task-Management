@@ -8,16 +8,23 @@ Admin Dashboard:
 Assign tasks to users.
 Set deadlines for tasks.
 View all assigned tasks.
+
+
 User Dashboard:
 
 Create new tasks.
 View assigned tasks.
 Complete pending tasks.
+
+
 Technologies Used
+
 React Native: Framework for building the app.
 AsyncStorage: For local storage of tasks and user data.
 DateTimePicker: For selecting deadlines.
+
 Installation
+
 Prerequisites
 Node.js (version 17 or higher)
 React Native CLI
@@ -41,16 +48,23 @@ For iOS:
 bash
 Copy code
 npx react-native run-ios
+
 Usage
+
 Admin Dashboard
+
 Create Tasks: Enter the task details and assign it to a user.
 Set Deadlines: Choose a deadline for the task.
 View Tasks: See all tasks assigned to users.
+
 User Dashboard
+
 Create Tasks: Create tasks for yourself.
 Complete Tasks: Mark tasks as completed.
 View Assigned Tasks: View tasks assigned by the admin.
+
 File Structure
+
 AdminDashboard.js: Admin dashboard component for task management.
 UserDashboard.js: User dashboard component for task management.
 App.js: Main application file.
