@@ -65,10 +65,18 @@ View Assigned Tasks: View tasks assigned by the admin.
 
 File Structure
 
-AdminDashboard.js: Admin dashboard component for task management.
-UserDashboard.js: User dashboard component for task management.
-App.js: Main application file.
-styles.js: Contains styling for components.
+AdminDashboard.js:
+Admin dashboard component for task management.
+
+UserDashboard.js:
+User dashboard component for task management.
+
+App.js:
+Main application file.
+
+styles.js:
+Contains styling for components.
+
 Contributing
 Contributions are welcome! If you’d like to contribute to this project, please follow these steps:
 
